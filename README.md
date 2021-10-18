@@ -36,7 +36,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Live Demo
 
-Not deployed yet
+Not yet deployed
 
 ## Author
 
