@@ -1,60 +1,48 @@
-# Math-Magicians
-![image](https://user-images.githubusercontent.com/74506933/135249451-5b14b4c1-582b-4adf-a798-a08f72270757.png)
-![image](https://user-images.githubusercontent.com/74506933/135249516-7016e0be-f82e-4d41-b54d-ed7dceaf6ed4.png)
-![image](https://user-images.githubusercontent.com/74506933/135249560-cf696691-d8ea-4845-a0e1-cb9087ed4b51.png)
+# Math-magicians 
 
+Math-magicians is a React SPA that allows users to do simple math operations and read a random math-related quote. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Screenshot from 2021-10-18 11-30-04](https://user-images.githubusercontent.com/75973193/137696509-1622d64a-cf77-4591-a875-57b267717167.png)
 
-Additional description about the project and its features.
-
-## Built With
-
-- HTML
-- CSS
-- JavaScript
-- React
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Git
-- GitHub
+Knowledge of React library And Javascript
+npm
+
+# Getting Started
+
+## To get a local copy in your machine:
+
+- clone the repo using git clone
+- Open your terminal and run `npm install` to install the node packages.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start` `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `yarn test` `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ## Live Demo
 
- [Live Demo Link](https://donard97.github.io/Math-magician/)
-
-
-### Install
-
-To clone this repo go to "https://github.com/Donard97/math-magician"
-
+Not deployed yet
 
 ## Author
 
-👤 **Donard Golaj**
+👤 **isaac lumato**
 
-- Github : [@Donard97](https://github.com/Donard97)
-- Twitter: [@donardgolaj](https://twitter.com/donardgolaj)
-- LinkdIn : [@donard-golaj](https://www.linkedin.com/in/donard-golaj/)
+- GitHub: [@isaka-lumato](https://github.com/isaka-lumato)
+- LinkedIn: [@isaka-lumato](https://www.linkedin.com/in/isaka-william-90773020b/)
 
 ## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Donard97/math-magician/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
