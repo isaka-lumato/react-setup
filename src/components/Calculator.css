@@ -3,22 +3,22 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(8, 1fr);
   width: 40%;
-  height:90%;
+  height: 90%;
   justify-self: center;
   align-self: center;
   position: absolute;
   top: 50%;
   left: 50%;
-   transform: translate(-50%, -50%)
+  transform: translate(-50%, -50%);
 }
 
 button:hover {
-    background: gray;
+  background: gray;
   color: white;
 }
 
 button:active {
-    background: rgba(0, 0, 0, 0.733);
+  background: rgba(0, 0, 0, 0.733);
   color: white;
 }
 
@@ -26,13 +26,13 @@ button:active {
   grid-column: 1/5;
   text-align: right;
   background: #858694;
-    border: 1px solid #c0c0c0;
+  border: 1px solid #c0c0c0;
 }
+
 .zero-bottom {
   grid-column: 1/3;
   border: 1px solid #c0c0c0;
 }
-
 
 .orange {
   background: #f5913e;
