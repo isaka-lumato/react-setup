@@ -27,6 +27,7 @@ button:active {
   text-align: right;
   background: #858694;
   border: 1px solid #c0c0c0;
+  cursor: pointer;
 }
 
 .zero-bottom {
