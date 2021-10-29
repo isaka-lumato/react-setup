@@ -2,14 +2,10 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(8, 1fr);
-  width: 40%;
+  width: 90%;
   height: 90%;
   justify-self: center;
   align-self: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 button:hover {
@@ -42,4 +38,14 @@ button:active {
 
 .dark {
   border: 1px solid #c0c0c0;
+}
+
+.calPageWrapper {
+  display: flex;
+  justify-content: space-around;
+  width: 200%;
+  height: 100vh;
+  margin-right: 50%;
+  position: relative;
+  right: 40%;
 }
