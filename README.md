@@ -36,7 +36,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Live Demo
 
-Not yet deployed
+- Heroku: [heroku-link](https://react-setup-lumato.herokuapp.com/)
+- Netlify: [netlify-link](https://lumato.netlify.app/)
 
 ## Author
 
